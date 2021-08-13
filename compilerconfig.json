@@ -1,0 +1,18 @@
+﻿[
+  {
+    "outputFile": "wwwroot/css/custom/site.css",
+    "inputFile": "Styles/site.scss"
+  },
+  {
+    "outputFile": "wwwroot/css/custom/typography.css",
+    "inputFile": "Styles/typography.scss"
+  },
+  {
+    "outputFile": "Shared/MainLayout.razor.css",
+    "inputFile": "Shared/MainLayout.razor.scss"
+  },
+  {
+    "outputFile": "Shared/NavMenu.razor.css",
+    "inputFile": "Shared/NavMenu.razor.scss"
+  }
+]

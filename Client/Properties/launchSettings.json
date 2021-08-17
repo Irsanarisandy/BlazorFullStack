@@ -15,7 +15,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "BlazorDemo": {
+    "Client": {
       "commandName": "Project",
       "dotnetRunMessages": "true",
       "launchBrowser": true,

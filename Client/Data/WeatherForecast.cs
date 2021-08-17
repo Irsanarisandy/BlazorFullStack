@@ -1,6 +1,6 @@
 using System;
 
-namespace BlazorDemo.Data
+namespace Client.Data
 {
     public class WeatherForecast
     {
